@@ -57,8 +57,6 @@ public class SimpleExamples {
 					}
 				}).print();
 
-
-
 		env.execute();
 
 	}
